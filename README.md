@@ -72,4 +72,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png" height="40" alt="Streamlit logo"  />
 </div>
