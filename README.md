@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">AI tools familiar 🤖</h3>
+<h3 align="left">Familiar AI tools 🤖</h3>
 
 <div align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png" height="40" alt="Midjourney image tool "  />
