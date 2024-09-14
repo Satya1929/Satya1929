@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Satyaprakash Swain from Bhubaneshwar<br><br>- 🔭 I’m working as on my AI chatbot <br>- 📚 I'm currently studying in VIT chennai<br>- ⚡ In my free time I work on growing in multiple aspects of life</p>
+<p align="left">I'm Satyaprakash Swain from Bhubaneshwar<br><br>- 🔭 I’m working on my AI chatbot <br>- 📚 I'm currently studying in VIT chennai<br>- ⚡ In my free time I work on growing in multiple aspects of life</p>
 
 ###
 
