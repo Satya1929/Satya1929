@@ -67,6 +67,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
+  <img src="https://911electronic.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" height="40" alt="LT spice"  />
+  <img width="12" />
+  <img src="https://filehulk.com/wp-content/uploads/2020/01/packet-Tracer-Picture.png" height="40" alt="Cisco packet tracer "  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -92,16 +96,6 @@
   <img src="https://th.bing.com/th/id/OIP.jA_4bvuEz5MM5PGisBJtYQAAAA?rs=1&pid=ImgDetMain" height="40" alt="gamma pdf tool "  />  
   <img width="12" />
   <img src="https://atai-main.b-cdn.net/tools/studyx-icon.jpeg" height="40" alt="studyX Homework tool "  />  
-</div>
-
-###
-
-<h3 align="left">Other Tech. tools </h3>
-
-<div align="left">
-  <img src="https://911electronic.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" height="40" alt="LT spice"  />
-  <img width="12" />
-  <img src="https://filehulk.com/wp-content/uploads/2020/01/packet-Tracer-Picture.png" height="40" alt="Cisco packet tracer "  />  
 </div>
 
 ###
