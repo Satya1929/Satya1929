@@ -95,12 +95,13 @@
 
 ###
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Satya__1929?theme=nord&font=Noto%20Sans%20Sundanese&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Satya__1929?theme=nord&font=Noto%20Sans%20Sundanese&ext=contest)
 
 <!--
-###![Leetcode Stats](https://leetcard.jacoblin.cool/Satya__1929?ext=contest)
-###ext=activity
-###ext=contest
+![Leetcode Stats](https://leetcard.jacoblin.cool/Satya__1929?ext=contest)
+ext=activity
+ext=contest
+ext=heatmap
 -->
 
 
