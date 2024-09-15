@@ -90,8 +90,31 @@
   <img src="https://images.glints.com/unsafe/540x0/glints-dashboard.s3.amazonaws.com/company-logo/f615bb8c1e8c8679784228f1856230d0.png" height="40" alt="Locofy frontend tool "  />  
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.jA_4bvuEz5MM5PGisBJtYQAAAA?rs=1&pid=ImgDetMain" height="40" alt="gamma pdf tool "  />  
+  <img width="12" />
+  <img src="https://atai-main.b-cdn.net/tools/studyx-icon.jpeg" height="40" alt="studyX Homework tool "  />  
 </div>
 
+###
+
+<h3 align="left">Other Tech. tools </h3>
+
+<div align="left">
+  <img src="https://911electronic.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" height="40" alt="LT spice"  />
+  <img width="12" />
+  <img src="https://filehulk.com/wp-content/uploads/2020/01/packet-Tracer-Picture.png" height="40" alt="Cisco packet tracer "  />  
+</div>
+
+###
+
+<h3 align="left"> Creative multimedia Tools</h3>
+
+<div align="left">
+  <img src="https://freelogopng.com/images/all_img/1656733637logo-canva-png.png" height="40" alt="Canva "  />
+  <img width="12" />
+  <img src="https://cdn01.symbaloo.com/smarkDefinitionAssets/89/smarkDef41310_1679412280062.png" height="40" alt="Clipchamp "  />  
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSDtXfanAoFTv8-oUhXiP01t6s7KIm4szJw&s" height="40" alt="Vita "  />  
+</div>
 
 ###
 
@@ -102,6 +125,10 @@
 ext=activity
 ext=contest
 ext=heatmap
+
+Productive tool - habitica , notion ,etc
+Creative multimedia Tools - picsart
+
 -->
 
 
