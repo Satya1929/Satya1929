@@ -96,6 +96,8 @@
   <img src="https://th.bing.com/th/id/OIP.jA_4bvuEz5MM5PGisBJtYQAAAA?rs=1&pid=ImgDetMain" height="40" alt="gamma pdf tool "  />  
   <img width="12" />
   <img src="https://atai-main.b-cdn.net/tools/studyx-icon.jpeg" height="40" alt="studyX Homework tool "  />  
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMgbHVXJCw0zQzk3DtR607-823YIxR1Zi_Q&s" height="40" alt="Mermaid Flowchart tool "  /> 
 </div>
 
 ###
