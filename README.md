@@ -82,6 +82,11 @@
   <img src="https://static.vecteezy.com/system/resources/previews/024/558/803/non_2x/openai-chatgpt-logo-icon-free-png.png" height="40" alt="Chatgpt API logo"  />
   <img width="12" />
   <img src="https://freelogopng.com/images/all_img/1690653777google-bard-icon.png" height="40" alt="bard API logo"  />
+  <img width="12" />
+  <img src="https://static.vecteezy.com/system/resources/previews/031/389/425/large_2x/google-sheets-logo-transparent-free-png.png" height="40" alt="Google Sheeet API logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.buOWE6utW-uGCWLBcOFNvwHaHa?w=2048&h=2048&rs=1&pid=ImgDetMain" height="40" alt="App script logo"  />
+  
 </div>
 
 ###
@@ -91,7 +96,7 @@
 <div align="left">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/midjourney-color-icon.png" height="40" alt="Midjourney image tool "  />
   <img width="12" />
-  <img src="https://images.glints.com/unsafe/540x0/glints-dashboard.s3.amazonaws.com/company-logo/f615bb8c1e8c8679784228f1856230d0.png" height="40" alt="Locofy frontend tool "  />  
+  <img src="https://www.locofy.ai/assets/icons/apple-touch-icon.png" height="40" alt="Locofy frontend tool "  />  
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.jA_4bvuEz5MM5PGisBJtYQAAAA?rs=1&pid=ImgDetMain" height="40" alt="gamma pdf tool "  />  
   <img width="12" />
