@@ -131,6 +131,10 @@ bolt.new for webdev
   <img src="https://cdn01.symbaloo.com/smarkDefinitionAssets/89/smarkDef41310_1679412280062.png" height="40" alt="Clipchamp "  />  
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSDtXfanAoFTv8-oUhXiP01t6s7KIm4szJw&s" height="40" alt="Vita "  />  
+  <img width="12" />
+  <img src="https://cdnblog.picsart.com/2021/07/icon-square-780x780.jpg" height="40" alt="Picsart"  /> 
+
+ 
 </div>
 
 ###
