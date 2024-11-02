@@ -95,7 +95,7 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.-clCRotMTDkkIpeLClXBsAHaHa?rs=1&pid=ImgDetMain" height="40" alt="Vite Js build tool logo"  />
   <img width="12" />
-  <img src="https://pnghq.com/wp-content/uploads/logo-google-analytics-png-transparent-image-1536x864.png" height="40" alt="Vite Js build tool logo"  />
+  <img src="https://pnghq.com/wp-content/uploads/logo-google-analytics-png-transparent-image-1536x864.png" height="40" alt="Google analytics logo"  />
 
 
 
@@ -116,6 +116,10 @@
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMgbHVXJCw0zQzk3DtR607-823YIxR1Zi_Q&s" height="40" alt="Mermaid Flowchart tool "  /> 
 </div>
+
+<!--
+bolt.new for webdev 
+-->
 
 ###
 
