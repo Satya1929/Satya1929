@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Satyaprakash Swain from Bhubaneshwar 👩‍💻<br><br>- I’m working on my own AI chatbot along with practicing DSA <br>- And I'm currently studying in VIT chennai<br>- In my free time I work on growing in multiple aspects of life</p>
+<p align="left">I'm Satyaprakash Swain from Bhubaneshwar 👩‍💻<br><br>- I’m working on my own development projects along with practicing DSA <br>- And I'm currently studying in VIT chennai<br>- In my free time I work on growing in multiple aspects of life</p>
 
 ###
 
@@ -83,10 +83,22 @@
   <img width="12" />
   <img src="https://freelogopng.com/images/all_img/1690653777google-bard-icon.png" height="40" alt="bard API logo"  />
   <img width="12" />
-  <img src="https://static.vecteezy.com/system/resources/previews/031/389/425/large_2x/google-sheets-logo-transparent-free-png.png" height="40" alt="Google Sheeet API logo"  />
+  <img src="https://static.vecteezy.com/system/resources/previews/031/389/425/large_2x/google-sheets-logo-transparent-free-png.png" height="40" alt="Google Sheeet as Database"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.buOWE6utW-uGCWLBcOFNvwHaHa?w=2048&h=2048&rs=1&pid=ImgDetMain" height="40" alt="App script logo"  />
-  
+  <img width="12" />
+  <img src="https://pnghq.com/wp-content/uploads/pnghq.com-react-logo-high-resolutio-8-2048x1781.png" height="40" alt="React for frontend web logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.maKe3jXsLd8flovNsX2_3QHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="40" alt="Typescript with react frontend logo"  />
+  <img width="12" />
+  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3257079/file-type-tailwind-icon-md.png" height="40" alt="Tailwind css logo"  />
+  <img width="12" />
+  <img src="https://th.bing.com/th/id/OIP.-clCRotMTDkkIpeLClXBsAHaHa?rs=1&pid=ImgDetMain" height="40" alt="Vite Js build tool logo"  />
+  <img width="12" />
+  <img src="https://pnghq.com/wp-content/uploads/logo-google-analytics-png-transparent-image-1536x864.png" height="40" alt="Vite Js build tool logo"  />
+
+
+
 </div>
 
 ###
