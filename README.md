@@ -67,7 +67,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
   <img width="12" />
-  <img src="https://911electronic.com/wp-content/uploads/2020/11/LTSpice-logo.jpg" height="40" alt="LT spice"  />
+  <img src="https://i.redd.it/x6gnx2y78vy51.png" height="40" alt="LT spice"  />
   <img width="12" />
   <img src="https://filehulk.com/wp-content/uploads/2020/01/packet-Tracer-Picture.png" height="40" alt="Cisco packet tracer "  />
   <img width="12" />
@@ -77,7 +77,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://img.stackshare.io/service/11393/default_67e251b5860795095fe91618cf3ef8d09257469a.png" height="40" alt="Streamlit logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmn_0ThddA3wprGIbV5jsfOX3dIcDIme9zjclH5zW8CJPrR8dEwsEtXT2hPt9i1AA0nWg&usqp=CAU" height="40" alt="Streamlit logo"  />
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/031/389/425/large_2x/google-sheets-logo-transparent-free-png.png" height="40" alt="Google Sheeet as Database"  />
   <img width="12" />
@@ -112,7 +112,7 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.jA_4bvuEz5MM5PGisBJtYQAAAA?rs=1&pid=ImgDetMain" height="40" alt="gamma pdf tool "  />  
   <img width="12" />
-  <img src="https://atai-main.b-cdn.net/tools/studyx-icon.jpeg" height="40" alt="studyX Homework tool "  />  
+  <img src="https://play-lh.googleusercontent.com/tv3RJNr1rFu3meNryXnM_UhiK4D_VhgzCbs93ERKkLc2SsmdynJqttR-COxFdqh9HQ3U=w240-h480-rw" height="40" alt="studyX Homework tool "  />  
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMgbHVXJCw0zQzk3DtR607-823YIxR1Zi_Q&s" height="40" alt="Mermaid Flowchart tool "  /> 
 </div>
