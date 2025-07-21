@@ -115,6 +115,15 @@
   <img src="https://play-lh.googleusercontent.com/tv3RJNr1rFu3meNryXnM_UhiK4D_VhgzCbs93ERKkLc2SsmdynJqttR-COxFdqh9HQ3U=w240-h480-rw" height="40" alt="studyX Homework tool "  />  
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMgbHVXJCw0zQzk3DtR607-823YIxR1Zi_Q&s" height="40" alt="Mermaid Flowchart tool "  /> 
+  <img width="12" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="40" alt="GitHub Copilot" />
+  <img width="12" />
+  <img src="https://europe1.discourse-cdn.com/flex013/uploads/make/optimized/1X/694f3217def943314071cd7a9a61f8c14bce26a5_2_500x500.png" height="40" alt="Make.com Automation" />
+  <img width="12" />
+  <img src="https://developer-applications.webexcontent.com/logo-0d73fe24-056f-4c50-a535-b37b8add7e31.png" height="40" alt="n8n.io Automation" />
+
+
+
 </div>
 
 <!--
