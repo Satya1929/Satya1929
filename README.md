@@ -83,7 +83,7 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.buOWE6utW-uGCWLBcOFNvwHaHa?w=2048&h=2048&rs=1&pid=ImgDetMain" height="40" alt="App script logo"  />
   <img width="12" />
-  <img src="https://pnghq.com/wp-content/uploads/pnghq.com-react-logo-high-resolutio-8-2048x1781.png" height="40" alt="React for frontend web logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React for frontend web logo"  />
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.maKe3jXsLd8flovNsX2_3QHaHa?w=167&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7" height="40" alt="Typescript with react frontend logo"  />
   <img width="12" />
@@ -91,7 +91,7 @@
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.-clCRotMTDkkIpeLClXBsAHaHa?rs=1&pid=ImgDetMain" height="40" alt="Vite Js build tool logo"  />
   <img width="12" />
-  <img src="https://pnghq.com/wp-content/uploads/logo-google-analytics-png-transparent-image-1536x864.png" height="40" alt="Google analytics logo"  />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-analytics-icon.svg" height="40" alt="Google analytics logo"  />
 
 
 
@@ -121,8 +121,29 @@
   <img src="https://europe1.discourse-cdn.com/flex013/uploads/make/optimized/1X/694f3217def943314071cd7a9a61f8c14bce26a5_2_500x500.png" height="40" alt="Make.com Automation" />
   <img width="12" />
   <img src="https://developer-applications.webexcontent.com/logo-0d73fe24-056f-4c50-a535-b37b8add7e31.png" height="40" alt="n8n.io Automation" />
-
-
+  <img width="12" />
+  <!-- Newly Added Tools -->
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQFko-zWIZk_pw/company-logo_200_200/B4EZhiRWKvHgAI-/0/1753995371543/claude_logo?e=2147483647&v=beta&t=CVNmFKyWig0Uo78oAr3II6KVLu_o0aXPtnt4S6XgOr8" height="40" alt="Claude AI" />
+  <img width="12" />
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/deepseek-logo-icon.svg" height="40" alt="DeepSeek" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/141221163?s=200&v=4" height="40" alt="Qwen" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/rahuljangirwork/copmany-logos/refs/heads/main/cursor.png" height="40" alt="Cursor IDE" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/28635252?s=200&v=4" height="40" alt="Bolt (StackBlitz)" />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E0BAQH3gzpARGoTng/company-logo_200_200/B4EZpzt_IvHcAI-/0/1762878026663/zapier_logo?e=1770249600&v=beta&t=MjZxg_62wfS0iLgu6-YCPRvunRkOQtQJJQFAbr4kgRg" height="40" alt="Zapier" />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/C4D0BAQG8vBl8F4QX1w/company-logo_200_200/company-logo_200_200/0/1668126895834/elevenlabsio_logo?e=1770249600&v=beta&t=__XCZJuAmfo5l_QOZNqvmgSVyZPgTO80tjnp4HOEyIM" height="40" alt="ElevenLabs" />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D0BAQFXq1pP-z2Fag/company-logo_200_200/B4DZiZK007H8AI-/0/1754916410247/invideoio_logo?e=1770249600&v=beta&t=x1ckbUl17FRk1IEVBKKDtuZ_4qsr2CAa-LVw68BPfro" height="40" alt="Invideo" />
+  <img width="12" />
+  <img src="https://media.licdn.com/dms/image/v2/D560BAQHeTxI4aMiz1w/company-logo_200_200/company-logo_200_200/0/1664690694278?e=1770249600&v=beta&t=56w3UO6vm4NsE6cCKH09zfitMu8C9LntS78qFMgFkbI" height="40" alt="OpenArt" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/notebooklm.png" height="40" alt="NotebookLM" />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpBRNGsRmT4uYCftE2H_3ObeKkG-T-p-d9Sg&s" height="40" alt="Antigravity" />
 
 </div>
 
